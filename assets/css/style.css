@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  color: #888888;
+ 
+}
+
+body {
+  background-color: #FFE8DF;
+  padding: 20px;
+  border: 20px;
+}
+
+a {
+  color: #888888;
+}
